@@ -1,0 +1,16 @@
+F:\arpit\Documents\LTI Training\CLD Training\RandomReviewGenerator\bin\Debug\net5.0\RandomReviewGenerator.exe
+F:\arpit\Documents\LTI Training\CLD Training\RandomReviewGenerator\bin\Debug\net5.0\RandomReviewGenerator.deps.json
+F:\arpit\Documents\LTI Training\CLD Training\RandomReviewGenerator\bin\Debug\net5.0\RandomReviewGenerator.runtimeconfig.json
+F:\arpit\Documents\LTI Training\CLD Training\RandomReviewGenerator\bin\Debug\net5.0\RandomReviewGenerator.runtimeconfig.dev.json
+F:\arpit\Documents\LTI Training\CLD Training\RandomReviewGenerator\bin\Debug\net5.0\RandomReviewGenerator.dll
+F:\arpit\Documents\LTI Training\CLD Training\RandomReviewGenerator\bin\Debug\net5.0\ref\RandomReviewGenerator.dll
+F:\arpit\Documents\LTI Training\CLD Training\RandomReviewGenerator\bin\Debug\net5.0\RandomReviewGenerator.pdb
+F:\arpit\Documents\LTI Training\CLD Training\RandomReviewGenerator\obj\Debug\net5.0\RandomReviewGenerator.csproj.AssemblyReference.cache
+F:\arpit\Documents\LTI Training\CLD Training\RandomReviewGenerator\obj\Debug\net5.0\RandomReviewGenerator.GeneratedMSBuildEditorConfig.editorconfig
+F:\arpit\Documents\LTI Training\CLD Training\RandomReviewGenerator\obj\Debug\net5.0\RandomReviewGenerator.AssemblyInfoInputs.cache
+F:\arpit\Documents\LTI Training\CLD Training\RandomReviewGenerator\obj\Debug\net5.0\RandomReviewGenerator.AssemblyInfo.cs
+F:\arpit\Documents\LTI Training\CLD Training\RandomReviewGenerator\obj\Debug\net5.0\RandomReviewGenerator.csproj.CoreCompileInputs.cache
+F:\arpit\Documents\LTI Training\CLD Training\RandomReviewGenerator\obj\Debug\net5.0\RandomReviewGenerator.dll
+F:\arpit\Documents\LTI Training\CLD Training\RandomReviewGenerator\obj\Debug\net5.0\ref\RandomReviewGenerator.dll
+F:\arpit\Documents\LTI Training\CLD Training\RandomReviewGenerator\obj\Debug\net5.0\RandomReviewGenerator.pdb
+F:\arpit\Documents\LTI Training\CLD Training\RandomReviewGenerator\obj\Debug\net5.0\RandomReviewGenerator.genruntimeconfig.cache
